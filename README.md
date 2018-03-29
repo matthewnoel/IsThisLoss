@@ -24,6 +24,7 @@ Check out these explanations from:
 *Clone or download* the repository
 
 Put an image file in the *PUT_IMAGE_HERE* folder
+**Note:** the file name should not contain any spaces because my code for finding the file is lazy
 
 Run the batch file called *isThisLoss.bat* in the main folder
 
